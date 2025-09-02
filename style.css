@@ -1,10 +1,7 @@
-body {
-  font-size: 10px;  
-} 
 #main {
   margin: 2.5rem 1rem;
-  padding: 1em;
-  border-radius: 1em;
+  padding: 1rem;
+  border-radius: 1rem;
   background-color: rgb(234, 232, 232);
 }
 #title {
@@ -24,7 +21,7 @@ figure, p {
   background-color: rgb(235, 238, 238);
   padding: 1rem 0;
   border: 1px solid #000;
-  border-radius: 0.5em;
+  border-radius: 0.5rem;
 }
 img {
   display: block;
@@ -44,7 +41,7 @@ section {
 }
 #tribute-info > ul {
   font-size: 1.55rem;
-  margin-left: 3em;
+  margin-left: 3rem;
 }
 #tribute-info li {
   padding-top: 2.5rem;
@@ -59,16 +56,16 @@ section {
 .stephen, .david, .barack {
   font-size: 1.45rem;
   text-align: left;
-  padding-left: 4em;  
+  padding-left: 4rem;  
   font-family: Arial;
 }
 .height {
-  line-height: 1.4em;
+  line-height: 1.4rem;
 }
 .wiki, #tribute-link {
   font-size: 1.4rem;
   font-family: sans-serif;
-  padding: 1em 0;
+  padding: 1rem 0;
 }
 a:hover {
   color: rgb(0, 0, 255);
@@ -89,7 +86,7 @@ a:active{
   }
   #tribute-info > ul, .wiki, #tribute-link {
     font-size: 1.1rem;
-    margin-left: 0.8em;
+    margin-left: 0.5rem;
   }
   #tribute-info li {
     padding-top: 1.5rem;
@@ -99,6 +96,6 @@ a:active{
   }
   .stephen, .david, .barack {
     font-size: 1.2rem;
-    padding-left: 1em;
+    padding-left: 1rem;
   }
 }
